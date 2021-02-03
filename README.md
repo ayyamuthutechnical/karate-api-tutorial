@@ -14,6 +14,9 @@ Karate API Training Series
  * After creating the project, IntelliJ IDEA will start downloading the dependency from Maven repo.
  * Once the project configured, you could see new files in the new Project (karate-config.js,logback-test.xml & Runner files)
  
+  **Note** : This is the easiest way to create config files and setup to use Karate.
+ It will reduce the manual work of creating karate specific files.
+ 
 ##### Plugin To be installed in IntelliJ(Recommended by Default by IntelliJ IDEA)
  * Gherkin
  * Cucumber for Java
@@ -29,5 +32,3 @@ Karate API Training Series
  * Good support for customization
  * Less Programming Knowledge required
  
- **Note** : This is the easiest way to create config files and setup to use Karate.
- It will reduce the manual work of creating karate specific files.
